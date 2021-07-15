@@ -38,4 +38,3 @@ else:
     s=s1[:len(s1)-3] 
     d="dollor"
 print(""+s+" dollors") 
-#print("》 "+s+".") 
